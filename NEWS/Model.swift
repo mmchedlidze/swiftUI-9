@@ -7,9 +7,6 @@
 
 import SwiftUI
 
-
-import Foundation
-
 // MARK: - Article
 struct Article: Decodable {
     let articles: [News]
